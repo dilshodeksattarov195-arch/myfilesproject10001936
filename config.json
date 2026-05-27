@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyvecrypt",
+        "uuid": 3235056,
+        "checksum": "7w92od"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
